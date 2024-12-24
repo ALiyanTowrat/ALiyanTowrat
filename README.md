@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ALiyanTowrat</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate backend developer from Pakistan</h3>
 <img align="right" alt = "Coding" height="400" width = "1000" scr= "[https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ALiyanTowrat&label=Profile%20views&color=0e75b6&style=flat" alt="ALiyanTowrat" /> </p>
 
