@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ALiyanTowrat</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-
+<img align="right" alt = "Coding" height="400" width = "1000" scr= "https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ALiyanTowrat&label=Profile%20views&color=0e75b6&style=flat" alt="ALiyanTowrat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ALiyanTowrat" alt="ALiyanTowrat" /></a> </p>
